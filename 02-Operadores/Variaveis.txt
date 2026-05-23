@@ -1,0 +1,69 @@
+Variaveis:
+
+preco_original
+porcentagem_desconto
+valor_desconto
+preco_final
+
+--------------------------------------------------------------------------
+
+operadores aritimeticos:
+
+adiçao                   |    +    | 5 + 2 = 7
+subtraçao                |    -    | 5 - 2 = 3
+multiplicaçao            |    *    | 5 * 2 = 10
+divisao inteiro          |   //    | 5 // 2 = 3
+divisao real             |    /    | 5 / 2 = 2.5
+exponenciaçao            |   **    | 5 ** 2 = 25
+radiciacao               | **(1/2) | 5 ** (1/2) = 2,24
+modulo                   |    %    | 5 % 2 = 1
+                            
+
+--------------------------------------------------------------------------
+
+Operadores relacionais:
+
+Verdadeiro Falso - true false
+maior                    | > 
+menor                    | <
+maior ou igual           | >=
+menor ou igual           | <=
+igual                    | ==
+diferente                | !=
+--------------------------------------------------------------------------
+Operador de atribuiçao   | =
+
+--------------------------------------------------------------------------
+
+Operadores logicos:
+
+E - And:                 |
+                         |       aprovado nota e presença
+                         |                 nota > 6 E presença > 75%
+                         |   Se V|V = V   (V= Verdadeiro)                                              
+                         |   Se F|V = F   (F = falso)
+                         |   Se V|F = F   
+                         |   Se F|F = F   (independente, se tiver um F a resposta é F)            |
+--------------------------------------------------------------------------
+OU - Or:                 |  Estudar Luis | Itapevi OU STP
+                         |   
+                         |   I | S = V    (S = Santana)
+                         |   I | F = V    (I = Itapevi)
+                         |   F | S = V    (F = Falso)
+                         |   F | F = F    (independente, se tiver um V a resposta é V)            |
+--------------------------------------------------------------------------
+NAO - Not:               |   NAO Luis > Borges = Falso
+                         |   (Vai ser F independente)
+
+
+
+
+
+
+
+
+
+
+
+
+
